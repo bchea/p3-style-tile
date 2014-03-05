@@ -2,7 +2,15 @@
 h2, h3, p {
 	margin: 0;
 }
-
+h2 {
+	font-family: helvetica;
+}
+h3 {
+	font-family: Arial;
+}
+p {
+	font-family: georgia;
+}
 /* Layout for Style Tile*/
 section {
 	margin: 20px 0;
