@@ -2,14 +2,21 @@
 h2, h3, p {
 	margin: 0;
 }
-h2 {
+h1 {
 	font-family: helvetica;
+	color: #EB1E19;
+}
+h2 {
+	font-family: Arial;
+	color: #900;
 }
 h3 {
-	font-family: Arial;
+	font-family: myriad pro;
+	color: #FF4236;
 }
 p {
 	font-family: georgia;
+	color: #000;
 }
 /* Layout for Style Tile*/
 section {
@@ -28,7 +35,15 @@ section {
 	height: 50px;
 	width: 50px;
 }
-
+.color-1 {
+	background: #A6A4A3;
+}
+.color-2 {
+	background: #363535;
+}
+.color-3 {
+	background: #EBE9E6;
+}
 
 /* Show Grid */
 .showgrid {
