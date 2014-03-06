@@ -2,6 +2,10 @@
 h2, h3, p {
 	margin: 0;
 }
+img {
+	width: 10em;
+	height: 10em;
+}
 h1 {
 	font-family: helvetica;
 	color: #EB1E19;
@@ -44,6 +48,9 @@ section {
 .color-3 {
 	background: #EBE9E6;
 }
+.pattern-1 {background-image: url(../img/stardust.png);}
+.pattern-2 {background-image: url(../img/triangular.png);}
+.pattern-3 {background-image: url(../img/zwartevilt.png);}
 
 /* Show Grid */
 .showgrid {
